@@ -17,19 +17,19 @@ Microsoft Intune
 
 <p align="center">
 Adding a group named IT support in Intune: <br/>
-<img src="https://imgur.com/R7fHO66.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/R7fHO66.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adding members to the created group:  <br/>: <br/
-<img src="https://imgur.com/DWSUXQM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DWSUXQM.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adding owner to the group  <br/>
-<img src="https://imgur.com/urYx68s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/urYx68s.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Successfully addeded members to the group:  <br/>
-<img src="https://imgur.com/6jRusdJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6jRusdJ.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
