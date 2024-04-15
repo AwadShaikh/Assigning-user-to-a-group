@@ -20,7 +20,7 @@ Adding a group named IT support in Intune: <br/>
 <img src="https://imgur.com/R7fHO66.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Adding members to the created group:  <br/>: <br/
+Adding members to the created group:  <br/>: <br/>
 <img src="https://imgur.com/DWSUXQM.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
